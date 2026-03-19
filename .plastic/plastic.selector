@@ -1,0 +1,4 @@
+repository "LabC8_Game/LabC8_Game@18968363704408@cloud"
+  path "/"
+    br "/main"
+    co "/main"
